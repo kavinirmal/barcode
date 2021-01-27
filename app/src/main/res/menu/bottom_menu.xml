@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home" android:icon="@drawable/ic_bottom_home" android:id="@+id/home"/>
+    <item android:title="Product" android:icon="@drawable/ic_resource_package" android:id="@+id/product" />
+    <item android:title="About Us" android:icon="@drawable/ic_bottom_profile" android:id="@+id/about_us" />
+
+</menu>
